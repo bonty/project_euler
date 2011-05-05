@@ -4,8 +4,8 @@
 
 typedef unsigned long long U64;
 
-#define FALSE 0;
-#define TRUE 1;
+#define FALSE 0
+#define TRUE 1
 
 /* primes up to 256 */
 static U64 seed_primes[]  = {
