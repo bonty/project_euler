@@ -25,6 +25,8 @@ int main(void) {
     }
 
     printf("%u\n", max);
+
+    free(str);
     return 0;
 }
 
